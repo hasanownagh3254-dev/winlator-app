@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Winlator</string>
-    <string name="run">Run</string>
-    <string name="edit">Edit</string>
-    <string name="remove">Remove</string>
-    <string name="add">Add</string>
-    <string name="shortcuts">Shortcuts</string>
-    <string name="containers">Containers</string>
-    <string name="input_controls">Input Controls</string>
-    <string name="no_items_to_display">No items to display</string>
-    <string name="new_container">New Container</string>
-    <string name="edit_container">Edit Container</string>
-    <string name="creating_container">Creating Container...</string>
-    <string name="removing_container">Removing Container...</string>
-    <string name="duplicating_container">Duplicating Container...</string>
-    <string name="installing_system_files">Installing System Files...</string>
-    <string name="updating_system_files">Updating System Files...</string>
-    <string name="starting_up">Starting up...</string>
-    <string name="unable_to_install_system_files">Unable to install system files</string>
-    <string name="keyboard">Keyboard</string>
-    <string name="toggle_fullscreen">Toggle Fullscreen</string>
-    <string name="exit">Exit</string>
-    <string name="no_control_element_selected">No control element selected</string>
-    <string name="scale">Scale</string>
-    <string name="shape">Shape</string>
-    <string name="type">Type</string>
-    <string name="binding">Binding</string>
-    <string name="binding_up">Binding Up</string>
-    <string name="binding_right">Binding Right</string>
-    <string name="binding_down">Binding Down</string>
-    <string name="binding_left">Binding Left</string>
-    <string name="overlay_opacity">Overlay Opacity</string>
-    <string name="opacity">Opacity</string>
-    <string name="profile">Profile</string>
-    <string name="select_profile">Select Profile</string>
-    <string name="profile_name">Profile Name</string>
-    <string name="name">Name</string>
-    <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="untitled">Untitled</string>
-    <string name="no_profile_selected">No profile selected</string>
-    <string name="no_profile_found">No profile found</string>
-    <string name="do_you_want_to_remove_this_profile">Do you want to remove this profile?</string>
-    <string name="do_you_want_to_duplicate_this_profile">Do you want to duplicate this profile?</string>
-    <string name="do_you_want_to_duplicate_this_preset">Do you want to duplicate this preset?</string>
-    <string name="do_you_want_to_remove_this_container">Do you want to remove this container?</string>
-    <string name="do_you_want_to_duplicate_this_container">Do you want to duplicate this container?</string>
-    <string name="do_you_want_to_remove_this_file">Do you want to remove this file?</string>
-    <string name="do_you_want_to_remove_this_controller">Do you want to remove this controller?</string>
-    <string name="do_you_want_to_remove_this_wine_version">Do you want to remove this Wine version?</string>
-    <string name="do_you_want_to_remove_this_preset">Do you want to remove this preset?</string>
-    <string name="do_you_want_to_remove_this_component_version">Do you want to remove this component version?</string>
-    <string name="do_you_want_to_end_this_process">Do you want to end this process?</string>
-    <string name="controls_editor">Controls Editor</string>
-    <string name="enabled">Enabled</string>
-    <string name="disabled">Disabled</string>
-    <string name="container">Container</string>
-    <string name="screen_size">Screen Size</string>
-    <string name="new_environment_variable">New Environment Variable</string>
-    <string name="environment_variables">Environment Variables</string>
-    <string name="value">Value</string>
-    <string name="processor_affinity">Processor Affinity</string>
-    <string name="processor_affinity_32_bit_apps">Processor Affinity (32-bit apps)</string>
-    <string name="cursor_speed">Cursor Speed</string>
-    <string name="relative_mouse_movement">Relative Mouse Movement</string>
-    <string name="toggle_switch">Toggle Switch</string>
-    <string name="profile_exported_to">Profile exported to</string>
-    <string name="unable_to_import_profile">Unable to import profile</string>
-    <string name="wine_configuration">Wine Configuration</string>
-    <string name="enable_csmt">Enable CSMT (Command Stream Multi-Thread)</string>
-    <string name="gpu_name">GPU Name</string>
-    <string name="offscreen_rendering_mode">Offscreen Rendering Mode</string>
-    <string name="enable_strict_shader_math">Enable Strict Shader Math</string>
-    <string name="video_memory_size">Video Memory Size</string>
-    <string name="none">None</string>
-    <string name="custom_text">Custom Text</string>
-    <string name="icon">Icon</string>
-    <string name="import_profile">Import Profile</string>
-    <string name="export_profile">Export Profile</string>
-    <string name="touchpad_help">Touchpad Help</string>
-    <string name="touchpad_help_mouse_left_click_title">Mouse Left-Click</string>
-    <string name="touchpad_help_mouse_left_click_description">Short tap with one finger</string>
-    <string name="touchpad_help_mouse_right_click_title">Mouse Right-Click</string>
-    <string name="touchpad_help_mouse_right_click_description">Tap with one finger and short tap with another finger</string>
-    <string name="touchpad_help_mouse_scroll_wheel_title">Mouse Scroll Wheel</string>
-    <string name="touchpad_help_mouse_scroll_wheel_description">Two fingers tap and move</string>
-    <string name="touchpad_help_main_menu_title">Main Menu</string>
-    <string name="touchpad_help_main_menu_description">Four fingers tap</string>
-    <string name="duplicate">Duplicate</string>
-    <string name="about">About</string>
-    <string name="credits_and_third_party_apps">Credits and Third-party apps</string>
-    <string name="external_controllers">External Controllers</string>
-    <string name="graphics_driver">Graphics Driver</string>
-    <string name="audio_driver">Audio Driver</string>
-    <string name="loading">Loading...</string>
-    <string name="press_any_button_on_your_controller">Press any button on your controller</string>
-    <string name="bindings">Bindings</string>
-    <string name="show_touchscreen_controls">Show Touchscreen Controls</string>
+    <string name="run">اجرا</string>
+    <string name="edit">ویرایش</string>
+    <string name="remove">حذف</string>
+    <string name="add">افزودن</string>
+    <string name="shortcuts">میانبرها</string>
+    <string name="containers">کانتینرها</string>
+    <string name="input_controls">کنترل‌های ورودی</string>
+    <string name="no_items_to_display">موردی برای نمایش وجود ندارد</string>
+    <string name="new_container">کانتینر جدید</string>
+    <string name="edit_container">ویرایش کانتینر</string>
+    <string name="creating_container">در حال ساخت کانتینر...</string>
+    <string name="removing_container">در حال حذف کانتینر...</string>
+    <string name="duplicating_container">در حال کپی کانتینر...</string>
+    <string name="installing_system_files">در حال نصب فایل‌های سیستمی...</string>
+    <string name="updating_system_files">در حال به‌روزرسانی فایل‌های سیستمی...</string>
+    <string name="starting_up">در حال راه‌اندازی...</string>
+    <string name="unable_to_install_system_files">نصب فایل‌های سیستمی ممکن نشد</string>
+    <string name="keyboard">صفحه‌کلید</string>
+    <string name="toggle_fullscreen">تمام‌صفحه</string>
+    <string name="exit">خروج</string>
+    <string name="no_control_element_selected">هیچ المان کنترلی انتخاب نشده است</string>
+    <string name="scale">اندازه</string>
+    <string name="shape">شکل</string>
+    <string name="type">نوع</string>
+    <string name="binding">اتصال کلید</string>
+    <string name="binding_up">کلید بالا</string>
+    <string name="binding_right">کلید راست</string>
+    <string name="binding_down">کلید پایین</string>
+    <string name="binding_left">کلید چپ</string>
+    <string name="overlay_opacity">شفافیت کنترل‌ها</string>
+    <string name="opacity">شفافیت</string>
+    <string name="profile">پروفایل</string>
+    <string name="select_profile">انتخاب پروفایل</string>
+    <string name="profile_name">نام پروفایل</string>
+    <string name="name">نام</string>
+    <string name="ok">تأیید</string>
+    <string name="cancel">لغو</string>
+    <string name="untitled">بدون عنوان</string>
+    <string name="no_profile_selected">پروفایلی انتخاب نشده است</string>
+    <string name="no_profile_found">پروفایلی پیدا نشد</string>
+    <string name="do_you_want_to_remove_this_profile">آیا می‌خواهید این پروفایل حذف شود؟</string>
+    <string name="do_you_want_to_duplicate_this_profile">آیا می‌خواهید از این پروفایل کپی ساخته شود؟</string>
+    <string name="do_you_want_to_duplicate_this_preset">آیا می‌خواهید از این پیش‌تنظیم کپی ساخته شود؟</string>
+    <string name="do_you_want_to_remove_this_container">آیا می‌خواهید این کانتینر حذف شود؟</string>
+    <string name="do_you_want_to_duplicate_this_container">آیا می‌خواهید از این کانتینر کپی ساخته شود؟</string>
+    <string name="do_you_want_to_remove_this_file">آیا می‌خواهید این فایل حذف شود؟</string>
+    <string name="do_you_want_to_remove_this_controller">آیا می‌خواهید این کنترلر حذف شود؟</string>
+    <string name="do_you_want_to_remove_this_wine_version">آیا می‌خواهید این نسخه‌ی Wine حذف شود؟</string>
+    <string name="do_you_want_to_remove_this_preset">آیا می‌خواهید این پیش‌تنظیم حذف شود؟</string>
+    <string name="do_you_want_to_remove_this_component_version">آیا می‌خواهید این نسخه‌ی مؤلفه حذف شود؟</string>
+    <string name="do_you_want_to_end_this_process">آیا می‌خواهید این پردازش متوقف شود؟</string>
+    <string name="controls_editor">ویرایشگر کنترل‌ها</string>
+    <string name="enabled">فعال</string>
+    <string name="disabled">غیرفعال</string>
+    <string name="container">کانتینر</string>
+    <string name="screen_size">اندازه‌ی صفحه</string>
+    <string name="new_environment_variable">متغیر محیطی جدید</string>
+    <string name="environment_variables">متغیرهای محیطی</string>
+    <string name="value">مقدار</string>
+    <string name="processor_affinity">هسته‌های پردازنده</string>
+    <string name="processor_affinity_32_bit_apps">هسته‌های پردازنده (برنامه‌های ۳۲ بیتی)</string>
+    <string name="cursor_speed">سرعت نشانگر</string>
+    <string name="relative_mouse_movement">حرکت نسبی ماوس</string>
+    <string name="toggle_switch">کلید تغییر وضعیت</string>
+    <string name="profile_exported_to">پروفایل خروجی گرفته شد در</string>
+    <string name="unable_to_import_profile">وارد کردن پروفایل ممکن نشد</string>
+    <string name="wine_configuration">تنظیمات Wine</string>
+    <string name="enable_csmt">فعال‌سازی CSMT (چندنخی کردن جریان دستورات)</string>
+    <string name="gpu_name">نام کارت گرافیک</string>
+    <string name="offscreen_rendering_mode">حالت رندر خارج از صفحه</string>
+    <string name="enable_strict_shader_math">فعال‌سازی محاسبات دقیق شیدر</string>
+    <string name="video_memory_size">حجم حافظه‌ی ویدیو</string>
+    <string name="none">هیچ‌کدام</string>
+    <string name="custom_text">متن دلخواه</string>
+    <string name="icon">آیکون</string>
+    <string name="import_profile">وارد کردن پروفایل</string>
+    <string name="export_profile">خروجی گرفتن از پروفایل</string>
+    <string name="touchpad_help">راهنمای تاچ‌پد</string>
+    <string name="touchpad_help_mouse_left_click_title">کلیک چپ ماوس</string>
+    <string name="touchpad_help_mouse_left_click_description">یک ضربه‌ی کوتاه با یک انگشت</string>
+    <string name="touchpad_help_mouse_right_click_title">کلیک راست ماوس</string>
+    <string name="touchpad_help_mouse_right_click_description">یک انگشت را نگه دارید و با انگشت دیگر یک ضربه‌ی کوتاه بزنید</string>
+    <string name="touchpad_help_mouse_scroll_wheel_title">چرخ ماوس</string>
+    <string name="touchpad_help_mouse_scroll_wheel_description">لمس با دو انگشت و حرکت دادن</string>
+    <string name="touchpad_help_main_menu_title">منوی اصلی</string>
+    <string name="touchpad_help_main_menu_description">لمس با چهار انگشت</string>
+    <string name="duplicate">کپی</string>
+    <string name="about">درباره</string>
+    <string name="credits_and_third_party_apps">سازندگان و برنامه‌های شخص ثالث</string>
+    <string name="external_controllers">کنترلرهای خارجی</string>
+    <string name="graphics_driver">درایور گرافیک</string>
+    <string name="audio_driver">درایور صدا</string>
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="press_any_button_on_your_controller">یکی از دکمه‌های کنترلر را بزنید</string>
+    <string name="bindings">اتصال کلیدها</string>
+    <string name="show_touchscreen_controls">نمایش کنترل‌های لمسی</string>
     <string name="dxwrapper" translatable="false">DX Wrapper</string>
     <string name="mouse_warp_override" translatable="false">Mouse Warp Override</string>
     <string name="direct3d" translatable="false">Direct3D</string>
@@ -110,252 +110,213 @@
     <string name="vcrun2005" translatable="false">Visual C++ 2005</string>
     <string name="vcrun2010" translatable="false">Visual C++ 2010</string>
     <string name="wmdecoder" translatable="false">Windows Media Decoder</string>
-    <string name="settings">Settings</string>
+    <string name="settings">تنظیمات</string>
     <string name="exec_arguments" translatable="false">Exec Arguments</string>
     <string name="win_components" translatable="false">Win Components</string>
-    <string name="drives">Drives</string>
-    <string name="drive">Drive</string>
-    <string name="force_fullscreen">Force Fullscreen</string>
-    <string name="range">Range</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
-    <string name="force">Force</string>
-    <string name="install_wine">Install Wine</string>
-    <string name="version">Version</string>
-    <string name="unable_to_install_wine">Unable to install Wine</string>
-    <string name="unable_to_remove_this_wine_version">Unable to remove this Wine version</string>
-    <string name="wine_version">Wine Version</string>
-    <string name="removing_wine">Removing Wine...</string>
-    <string name="preparing_installation">Preparing installation...</string>
-    <string name="finishing_installation">Finishing installation...</string>
-    <string name="storage_info">Storage Info</string>
-    <string name="drive_c">Drive C:</string>
+    <string name="drives">درایوها</string>
+    <string name="drive">درایو</string>
+    <string name="force_fullscreen">اجبار به تمام‌صفحه</string>
+    <string name="range">محدوده</string>
+    <string name="enable">فعال کردن</string>
+    <string name="disable">غیرفعال کردن</string>
+    <string name="force">اجبار</string>
+    <string name="install_wine">نصب Wine</string>
+    <string name="version">نسخه</string>
+    <string name="unable_to_install_wine">نصب Wine ممکن نشد</string>
+    <string name="unable_to_remove_this_wine_version">حذف این نسخه‌ی Wine ممکن نشد</string>
+    <string name="wine_version">نسخه‌ی Wine</string>
+    <string name="removing_wine">در حال حذف Wine...</string>
+    <string name="preparing_installation">در حال آماده‌سازی نصب...</string>
+    <string name="finishing_installation">در حال پایان نصب...</string>
+    <string name="storage_info">اطلاعات حافظه</string>
+    <string name="drive_c">درایو C:</string>
     <string name="cache" translatable="false">Cache</string>
-    <string name="total">Total</string>
-    <string name="clear_cache">Clear Cache</string>
-    <string name="estimated_used_space">Estimated Used Space</string>
-    <string name="advanced">Advanced</string>
+    <string name="total">مجموع</string>
+    <string name="clear_cache">پاک کردن حافظه‌ی موقت</string>
+    <string name="estimated_used_space">فضای مصرف‌شده (تقریبی)</string>
+    <string name="advanced">پیشرفته</string>
     <string name="box64" translatable="false">Box64</string>
-    <string name="system">System</string>
-    <string name="box64_preset">Box64 Preset</string>
-    <string name="box64_version">Box64 Version</string>
-    <string name="letter">Letter</string>
-    <string name="target_path">Target Path</string>
-    <string name="width">Width</string>
-    <string name="height">Height</string>
-    <string name="old">old</string>
-    <string name="_new">new</string>
-    <string name="task_manager">Task Manager</string>
-    <string name="process_name">Process Name</string>
+    <string name="system">سیستم</string>
+    <string name="box64_preset">پیش‌تنظیم Box64</string>
+    <string name="box64_version">نسخه‌ی Box64</string>
+    <string name="letter">حرف درایو</string>
+    <string name="target_path">مسیر مقصد</string>
+    <string name="width">عرض</string>
+    <string name="height">ارتفاع</string>
+    <string name="old">قدیمی</string>
+    <string name="_new">جدید</string>
+    <string name="task_manager">مدیریت وظایف</string>
+    <string name="process_name">نام پردازش</string>
     <string name="pid" translatable="false">PID</string>
-    <string name="memory">Memory</string>
-    <string name="battery">Battery</string>
-    <string name="end_process">End Process</string>
-    <string name="new_task">New Task</string>
-    <string name="processes">Processes</string>
-    <string name="orientation">Orientation</string>
-    <string name="horizontal">Horizontal</string>
-    <string name="vertical">Vertical</string>
-    <string name="open_file">Open File</string>
-    <string name="download_file">Download File</string>
-    <string name="do_you_want_to_download_the_selected_profiles">Do you want to download the selected profiles?</string>
-    <string name="downloading_file">Downloading File...</string>
-    <string name="a_network_error_occurred">A network error occurred</string>
-    <string name="copy">Copy</string>
-    <string name="installed_version">Installed Version</string>
-    <string name="unable_to_download_file">Unable to download file</string>
-    <string name="stability">Stability</string>
-    <string name="conservative">Conservative</string>
-    <string name="intermediate">Intermediate</string>
-    <string name="performance">Performance</string>
-    <string name="preset">Preset</string>
-    <string name="you_cannot_remove_this_preset">You cannot remove this preset</string>
-    <string name="you_cannot_remove_this_component_version">You cannot remove this component version</string>
+    <string name="memory">حافظه</string>
+    <string name="battery">باتری</string>
+    <string name="end_process">توقف پردازش</string>
+    <string name="new_task">وظیفه‌ی جدید</string>
+    <string name="processes">پردازش‌ها</string>
+    <string name="orientation">جهت</string>
+    <string name="horizontal">افقی</string>
+    <string name="vertical">عمودی</string>
+    <string name="open_file">باز کردن فایل</string>
+    <string name="download_file">دانلود فایل</string>
+    <string name="do_you_want_to_download_the_selected_profiles">آیا می‌خواهید پروفایل‌های انتخاب‌شده دانلود شوند؟</string>
+    <string name="downloading_file">در حال دانلود فایل...</string>
+    <string name="a_network_error_occurred">خطای شبکه رخ داد</string>
+    <string name="copy">کپی</string>
+    <string name="installed_version">نسخه‌ی نصب‌شده</string>
+    <string name="unable_to_download_file">دانلود فایل ممکن نشد</string>
+    <string name="stability">پایداری</string>
+    <string name="conservative">محافظه‌کارانه</string>
+    <string name="intermediate">متوسط</string>
+    <string name="performance">کارایی</string>
+    <string name="preset">پیش‌تنظیم</string>
+    <string name="you_cannot_remove_this_preset">این پیش‌تنظیم قابل حذف نیست</string>
+    <string name="you_cannot_remove_this_component_version">این نسخه‌ی مؤلفه قابل حذف نیست</string>
     <string name="dxwrapper_help_content"><![CDATA[
-        <i><b>WineD3D</b></i> is a translation layer for DirectX 1-11 to OpenGL.<br /><br />
-        <i><b>DXVK</b></i> is a translation layer for Direct3D 9-11 to Vulkan.<br /><br />
-        <i><b>VKD3D</b></i> is a translation layer for Direct3D 12 API to Vulkan.<br /><br />
-        <i><b>CNC DDraw</b></i> is an implementation of DirectDraw for better compatibility with classic games.
+        <i><b>WineD3D</b></i> یک لایه‌ی تبدیل از DirectX نسخه‌های ۱ تا ۱۱ به OpenGL است.<br /><br />
+        <i><b>DXVK</b></i> یک لایه‌ی تبدیل از Direct3D نسخه‌های ۹ تا ۱۱ به Vulkan است.<br /><br />
+        <i><b>VKD3D</b></i> یک لایه‌ی تبدیل از Direct3D 12 به Vulkan است.<br /><br />
+        <i><b>CNC DDraw</b></i> پیاده‌سازی DirectDraw برای سازگاری بهتر با بازی‌های کلاسیک است.
     ]]></string>
-    <string name="box64_env_var_help__dynarec_safeflags" translatable="false"><![CDATA[
-        Handling of flags on CALL/RET opcodes<br /><br />
-        <b>0</b> : Treats CALL/RET as if it never needed flags (faster, unstable)<br />
-        <b>1</b> : Most RET will need flags, most CALLS will not<br />
-        <b>2</b> : All CALL/RET will need flags (slower)
-    ]]></string>
-    <string name="box64_env_var_help__dynarec_fastnan" translatable="false">Generation of -NAN like on x86</string>
-    <string name="box64_env_var_help__dynarec_fastround" translatable="false"><![CDATA[
-        Generation of precise x86 rounding<br /><br />
-        <b>0</b> : Generate float/double -> int rounding like on x86<br />
-        <b>1</b> : Don\'t do anything special with edge case Rounding, to go as fast as possible (no INF/NAN/Overflow -> MIN_INT conversion)<br />
-        <b>2</b> : Everything from 1 plus also fast round of double -> float (not taking into account current rounding mode)
-    ]]></string>
-    <string name="box64_env_var_help__dynarec_x87double" translatable="false">Use of Float/Double for x87 emulation</string>
-    <string name="box64_env_var_help__dynarec_bigblock" translatable="false"><![CDATA[
-        Dynarec building BigBlock<br /><br />
-        <b>0</b> : Don\'t try to build block as big as possible<br />
-        <b>1</b> : Build Dynarec block as big as possible<br />
-        <b>2</b> : Build Dynarec block bigger (continue when block overlaps, but only for blocks in elf memory)<br />
-        <b>3</b> : Build Dynarec block bigger (continue when block overlaps, for all types of memory)
-    ]]></string>
-    <string name="box64_env_var_help__dynarec_strongmem" translatable="false"><![CDATA[
-        Simulation of Strong Memory model<br /><br />
-        <b>0</b> : Don\'t try anything special<br />
-        <b>1</b> : Enable some Memory Barrier when writing to memory (on some MOV opcode)<br />
-        <b>2</b> : All 1 plus a Memory Barrier on every write to memory using MOV<br />
-        <b>3</b> : All 2 plus Memory Barrier when reading from memory and on some SSE/SSE2 opcodes
-    ]]></string>
-    <string name="box64_env_var_help__dynarec_weakbarrier" translatable="false"><![CDATA[
-        Tweak the memory barriers to reduce the performance impact by strongmem<br /><br />
-        <b>0</b> : Use regular safe barrier<br />
-        <b>1</b> : Use weak barriers to have more performance boost<br />
-        <b>2</b> : All in 1, plus disabled the last write barriers
-    ]]></string>
-    <string name="box64_env_var_help__dynarec_forward" translatable="false">Defines the max allowed forward value when building Block</string>
-    <string name="box64_env_var_help__dynarec_callret" translatable="false">Optimization of CALL/RET opcodes</string>
-    <string name="box64_env_var_help__dynarec_wait" translatable="false">Defines whether or not Dynarec will wait for the FillBlock to be ready</string>
-    <string name="box64_env_var_help__dynarec_nativeflags" translatable="false">The generated code will use native flags, if possible</string>
-    <string name="columns">Columns</string>
-    <string name="directinput_mapper_type">DirectInput Mapper Type</string>
-    <string name="desktop">Desktop</string>
-    <string name="theme">Theme</string>
-    <string name="background">Background</string>
-    <string name="max_device_memory">Max Device Memory</string>
-    <string name="frame_rate">Frame Rate</string>
-    <string name="configuration">Configuration</string>
-    <string name="browse">Browse</string>
-    <string name="magnifier">Magnifier</string>
-    <string name="bring_to_front">Bring to Front</string>
-    <string name="options">Options</string>
-    <string name="logs">Logs</string>
-    <string name="enable_wine_debug">Enable Wine debug</string>
-    <string name="box64_logs">Box64 Logs</string>
-    <string name="export">Export</string>
-    <string name="logs_exported_to">Logs exported to</string>
-    <string name="general">General</string>
-    <string name="startup_selection">Startup Selection</string>
-    <string name="wine_debug_channel">Wine Debug Channel</string>
-    <string name="save_logs_to_file">Save logs to file</string>
-    <string name="new_folder">New Folder</string>
-    <string name="view_style">View Style</string>
-    <string name="there_already_file_with_that_name">There is already a file with that name</string>
-    <string name="cut">Cut</string>
-    <string name="copying_files">Copying Files...</string>
-    <string name="removing_files">Removing Files...</string>
-    <string name="disable_mouse_input">Disable Mouse Input</string>
-    <string name="move_cursor_to_touchpoint">Move Cursor to Touchpoint</string>
-    <string name="dpi_font_size">DPI (Font Size)</string>
-    <string name="gamepad_model">Gamepad Model</string>
-    <string name="file_manager">File Manager</string>
-    <string name="documents">Documents</string>
-    <string name="items">items</string>
-    <string name="you_cannot_paste_files_here">You cannot paste files here</string>
-    <string name="information">Information</string>
-    <string name="rename">Rename</string>
-    <string name="location">Location</string>
-    <string name="file">File</string>
-    <string name="folder">Folder</string>
-    <string name="size">Size</string>
-    <string name="modified">Modified</string>
-    <string name="contains">Contains</string>
-    <string name="favorites">Favorites</string>
-    <string name="add_to_favorites">Add to Favorites</string>
-    <string name="file_added_to_favorites">File added to Favorites</string>
-    <string name="game_controllers">Game Controllers</string>
-    <string name="home">Home</string>
-    <string name="custom_device">Custom Device</string>
-    <string name="reinstall_system_files">Reinstall System Files</string>
-    <string name="do_you_want_to_reinstall_system_files">Do you want to reinstall system files?</string>
-    <string name="mouse">Mouse</string>
-    <string name="cursor_size">Cursor Size</string>
-    <string name="color">Color</string>
-    <string name="volume">Volume</string>
-    <string name="average_latency">Average Latency</string>
-    <string name="performance_mode">Performance Mode</string>
-    <string name="audio">Audio</string>
-    <string name="opengl_version">OpenGL Version</string>
-    <string name="disable_vertex_array_bgra">Disable vertex array BGRA</string>
-    <string name="screen_effect">Screen Effect</string>
-    <string name="enable_fxaa">Enable FXAA</string>
-    <string name="brightness">Brightness</string>
-    <string name="contrast">Contrast</string>
-    <string name="gamma">Gamma</string>
-    <string name="color_adjustment">Color Adjustment</string>
-    <string name="reset">Reset</string>
-    <string name="enable_crt_shader">Enable CRT Shader</string>
-    <string name="open_directory">Open Directory</string>
-    <string name="locations">Locations</string>
-    <string name="downloads">Downloads</string>
-    <string name="internal_storage">Internal Storage</string>
-    <string name="windows_version">Windows Version</string>
-    <string name="install_component">Install Component</string>
-    <string name="open_android_browser_from_wine">Open Android Browser from Wine</string>
-    <string name="use_android_clipboard_on_Wine">Use Android Clipboard on Wine</string>
-    <string name="enable_background_protection">Enable Background Protection</string>
-    <string name="enable_background_protection_tooltip">Keep container alive in background or when device locked, but processes\'re paused.</string>
-    <string name="enable_background_wakelock">Enable wakelock when the device is locked</string>
-    <string name="enable_background_wakelock_tooltip">Avoid issues when returning after unlocking the device.</string>
-    <string name="capture_pointer_on_external_mouse">Capture pointer on external mouse</string>
-    <string name="there_are_no_items_to_download">There are no items to download</string>
-    <string name="enable_direct_rendering">Enable direct rendering</string>
-    <string name="d3d_feature_level">D3D Feature Level</string>
-    <string name="system_font">System Font</string>
-    <string name="vulkan_version">Vulkan Version</string>
-    <string name="exposed_extensions">Exposed Extensions</string>
-    <string name="multiselection_combobox_display_text">%d of %d items</string>
-    <string name="voltage">Voltage</string>
-    <string name="current">Current</string>
-    <string name="capacity">Capacity</string>
-    <string name="sound">Sound</string>
-    <string name="midi_soundfont">MIDI SoundFont</string>
-    <string name="instrument">Instrument</string>
-    <string name="channel">Channel</string>
-    <string name="note">Note</string>
-    <string name="move_mouse_when_pressed">Move Mouse when pressed</string>
-    <string name="midi_input_device">MIDI Input Device</string>
-    <string name="auto">Auto</string>
-    <string name="active_windows">Active Windows</string>
-    <string name="show_desktop">Show Desktop</string>
-    <string name="language">Language</string>
-    <string name="image_cache_size">Image Cache Size</string>
-    <string name="pip_mode">PiP Mode</string>
+    <string name="columns">ستون‌ها</string>
+    <string name="directinput_mapper_type">نوع نگاشت DirectInput</string>
+    <string name="desktop">دسکتاپ</string>
+    <string name="theme">تم</string>
+    <string name="background">پس‌زمینه</string>
+    <string name="max_device_memory">حداکثر حافظه‌ی دستگاه</string>
+    <string name="frame_rate">نرخ فریم</string>
+    <string name="configuration">پیکربندی</string>
+    <string name="browse">مرور</string>
+    <string name="magnifier">ذره‌بین</string>
+    <string name="bring_to_front">آوردن به جلو</string>
+    <string name="options">گزینه‌ها</string>
+    <string name="logs">گزارش‌ها (لاگ)</string>
+    <string name="enable_wine_debug">فعال‌سازی دیباگ Wine</string>
+    <string name="box64_logs">لاگ Box64</string>
+    <string name="export">خروجی گرفتن</string>
+    <string name="logs_exported_to">لاگ‌ها ذخیره شدند در</string>
+    <string name="general">عمومی</string>
+    <string name="startup_selection">انتخاب هنگام شروع</string>
+    <string name="wine_debug_channel">کانال دیباگ Wine</string>
+    <string name="save_logs_to_file">ذخیره‌ی لاگ‌ها در فایل</string>
+    <string name="new_folder">پوشه‌ی جدید</string>
+    <string name="view_style">نحوه‌ی نمایش</string>
+    <string name="there_already_file_with_that_name">فایلی با این نام از قبل وجود دارد</string>
+    <string name="cut">برش</string>
+    <string name="copying_files">در حال کپی فایل‌ها...</string>
+    <string name="removing_files">در حال حذف فایل‌ها...</string>
+    <string name="disable_mouse_input">غیرفعال کردن ورودی ماوس</string>
+    <string name="move_cursor_to_touchpoint">انتقال نشانگر به نقطه‌ی لمس</string>
+    <string name="dpi_font_size">DPI (اندازه‌ی فونت)</string>
+    <string name="gamepad_model">مدل گیم‌پد</string>
+    <string name="file_manager">مدیریت فایل</string>
+    <string name="documents">اسناد</string>
+    <string name="items">مورد</string>
+    <string name="you_cannot_paste_files_here">نمی‌توانید فایل‌ها را اینجا جایگذاری کنید</string>
+    <string name="information">اطلاعات</string>
+    <string name="rename">تغییر نام</string>
+    <string name="location">مکان</string>
+    <string name="file">فایل</string>
+    <string name="folder">پوشه</string>
+    <string name="size">حجم</string>
+    <string name="modified">آخرین تغییر</string>
+    <string name="contains">شامل</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="add_to_favorites">افزودن به علاقه‌مندی‌ها</string>
+    <string name="file_added_to_favorites">فایل به علاقه‌مندی‌ها اضافه شد</string>
+    <string name="game_controllers">کنترلرهای بازی</string>
+    <string name="home">خانه</string>
+    <string name="custom_device">دستگاه دلخواه</string>
+    <string name="reinstall_system_files">نصب مجدد فایل‌های سیستمی</string>
+    <string name="do_you_want_to_reinstall_system_files">آیا می‌خواهید فایل‌های سیستمی دوباره نصب شوند؟</string>
+    <string name="mouse">ماوس</string>
+    <string name="cursor_size">اندازه‌ی نشانگر</string>
+    <string name="color">رنگ</string>
+    <string name="volume">صدا</string>
+    <string name="average_latency">میانگین تأخیر</string>
+    <string name="performance_mode">حالت کارایی</string>
+    <string name="audio">صدا</string>
+    <string name="opengl_version">نسخه‌ی OpenGL</string>
+    <string name="disable_vertex_array_bgra">غیرفعال کردن Vertex Array BGRA</string>
+    <string name="screen_effect">افکت صفحه</string>
+    <string name="enable_fxaa">فعال‌سازی FXAA</string>
+    <string name="brightness">روشنایی</string>
+    <string name="contrast">کنتراست</string>
+    <string name="gamma">گاما</string>
+    <string name="color_adjustment">تنظیم رنگ</string>
+    <string name="reset">بازنشانی</string>
+    <string name="enable_crt_shader">فعال‌سازی شیدر CRT</string>
+    <string name="open_directory">باز کردن پوشه</string>
+    <string name="locations">مکان‌ها</string>
+    <string name="downloads">دانلودها</string>
+    <string name="internal_storage">حافظه‌ی داخلی</string>
+    <string name="windows_version">نسخه‌ی ویندوز</string>
+    <string name="install_component">نصب مؤلفه</string>
+    <string name="open_android_browser_from_wine">باز کردن مرورگر اندروید از داخل Wine</string>
+    <string name="use_android_clipboard_on_Wine">استفاده از کلیپ‌بورد اندروید در Wine</string>
+    <string name="enable_background_protection">فعال‌سازی محافظت پس‌زمینه</string>
+    <string name="enable_background_protection_tooltip">کانتینر را در پس‌زمینه یا هنگام قفل بودن دستگاه زنده نگه می‌دارد، ولی پردازش‌ها متوقف می‌شوند.</string>
+    <string name="enable_background_wakelock">فعال‌سازی Wakelock هنگام قفل بودن دستگاه</string>
+    <string name="enable_background_wakelock_tooltip">از بروز مشکل هنگام بازگشت پس از باز کردن قفل دستگاه جلوگیری می‌کند.</string>
+    <string name="capture_pointer_on_external_mouse">گرفتن نشانگر برای ماوس خارجی</string>
+    <string name="there_are_no_items_to_download">موردی برای دانلود وجود ندارد</string>
+    <string name="enable_direct_rendering">فعال‌سازی رندر مستقیم</string>
+    <string name="d3d_feature_level">سطح قابلیت D3D</string>
+    <string name="system_font">فونت سیستم</string>
+    <string name="vulkan_version">نسخه‌ی Vulkan</string>
+    <string name="exposed_extensions">افزونه‌های فعال</string>
+    <string name="multiselection_combobox_display_text">%d از %d مورد</string>
+    <string name="voltage">ولتاژ</string>
+    <string name="current">جریان</string>
+    <string name="capacity">ظرفیت</string>
+    <string name="sound">صدا</string>
+    <string name="midi_soundfont">ساندفونت MIDI</string>
+    <string name="instrument">ساز</string>
+    <string name="channel">کانال</string>
+    <string name="note">نت</string>
+    <string name="move_mouse_when_pressed">حرکت ماوس هنگام فشردن</string>
+    <string name="midi_input_device">دستگاه ورودی MIDI</string>
+    <string name="auto">خودکار</string>
+    <string name="active_windows">پنجره‌های فعال</string>
+    <string name="show_desktop">نمایش دسکتاپ</string>
+    <string name="language">زبان</string>
+    <string name="image_cache_size">حجم حافظه‌ی موقت تصویر</string>
+    <string name="pip_mode">حالت PiP (تصویر در تصویر)</string>
     <string name="adrenotools_driver" translatable="false">Adrenotools Driver</string>
-    <string name="resource_memory_type">Resource Memory Type</string>
-    <string name="zero_no_limit">0 (No limit)</string>
-    <string name="custom">Custom</string>
-    <string name="native_resolution">Native</string>
-    <string name="minimal">Minimal</string>
-    <string name="trace">Trace</string>
-    <string name="builtin_wine">Builtin (Wine)</string>
-    <string name="native_windows">Native (Windows)</string>
-    <string name="light">Light</string>
-    <string name="dark">Dark</string>
-    <string name="image">Image</string>
-    <string name="solid_color">Solid Color</string>
-    <string name="startup_selection_normal">Normal (Load all services)</string>
-    <string name="startup_selection_essential">Essential (Load only essential services)</string>
-    <string name="startup_selection_aggressive">Aggressive (Load minimal services)</string>
-    <string name="both">Both</string>
-    <string name="low_latency">Low Latency</string>
-    <string name="power_saving">Power Saving</string>
-    <string name="player">Player</string>
-    <string name="gamepad">Gamepad</string>
-    <string name="enable_vibration">Enable Vibration</string>
-    <string name="mode">Mode</string>
-    <string name="external_controller">External Controller</string>
-    <string name="controls_profile">Controls Profile</string>
-    <string name="do_you_want_to_reset_configurations">Do you want to reset the configurations?</string>
-    <string name="the_settings_have_been_changed_do_you_want_to_restart_the_app">The settings have been changed. Do you want to restart the app?</string>
-    <string name="hud_mode">HUD Mode</string>
-    <string name="simple_fps">Simple (FPS)</string>
-    <string name="full">Full</string>
+    <string name="resource_memory_type">نوع حافظه‌ی منابع</string>
+    <string name="zero_no_limit">۰ (بدون محدودیت)</string>
+    <string name="custom">دلخواه</string>
+    <string name="minimal">حداقل</string>
+    <string name="trace">ردیابی (Trace)</string>
+    <string name="builtin_wine">داخلی (Wine)</string>
+    <string name="native_windows">اصلی (ویندوز)</string>
+    <string name="light">روشن</string>
+    <string name="dark">تیره</string>
+    <string name="image">تصویر</string>
+    <string name="solid_color">رنگ ساده</string>
+    <string name="startup_selection_normal">عادی (بارگذاری همه‌ی سرویس‌ها)</string>
+    <string name="startup_selection_essential">ضروری (فقط سرویس‌های ضروری)</string>
+    <string name="startup_selection_aggressive">سبک (حداقل سرویس‌ها)</string>
+    <string name="both">هر دو</string>
+    <string name="low_latency">تأخیر کم</string>
+    <string name="power_saving">صرفه‌جویی در انرژی</string>
+    <string name="player">بازیکن</string>
+    <string name="gamepad">گیم‌پد</string>
+    <string name="enable_vibration">فعال‌سازی لرزش</string>
+    <string name="mode">حالت</string>
+    <string name="external_controller">کنترلر خارجی</string>
+    <string name="controls_profile">پروفایل کنترل‌ها</string>
+    <string name="do_you_want_to_reset_configurations">آیا می‌خواهید تنظیمات بازنشانی شود؟</string>
+    <string name="the_settings_have_been_changed_do_you_want_to_restart_the_app">تنظیمات تغییر کرد. آیا می‌خواهید برنامه دوباره راه‌اندازی شود؟</string>
+    <string name="hud_mode">حالت HUD</string>
+    <string name="simple_fps">ساده (FPS)</string>
+    <string name="full">کامل</string>
     <string name="ddraw_wrapper" translatable="false">DDraw Wrapper</string>
-    <string name="renderer">Renderer</string>
-    <string name="default_no_override">Default (No override)</string>
-    <string name="fgs_notification_channel_desc">Keeps Winlator running in the background so a wine session is not interrupted by Android\'s background process management.</string>
-    <string name="fgs_notification_content_container_background">A container session is running in the background</string>
-    <string name="fgs_notification_content_container_foreground">There is a container session running</string>
-    <string name="fgs_notification_content_else">Winlator is running in the background</string>
-    <string name="save_mem_on_run_from_steam">Save memory on run from Steam</string>
-    <string name="present_mode">Present Mode</string>
+    <string name="renderer">رندرکننده</string>
+    <string name="default_no_override">پیش‌فرض (بدون تغییر)</string>
+    <string name="fgs_notification_channel_desc">Winlator را در پس‌زمینه فعال نگه می‌دارد تا نشست Wine با مدیریت پردازش‌های پس‌زمینه‌ی اندروید قطع نشود.</string>
+    <string name="fgs_notification_content_container_background">یک نشست کانتینر در پس‌زمینه در حال اجراست</string>
+    <string name="fgs_notification_content_container_foreground">یک نشست کانتینر در حال اجراست</string>
+    <string name="fgs_notification_content_else">Winlator در پس‌زمینه در حال اجراست</string>
+    <string name="save_mem_on_run_from_steam">صرفه‌جویی در حافظه هنگام اجرا از Steam</string>
+    <string name="present_mode">حالت Present</string>
 </resources>
